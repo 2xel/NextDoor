@@ -1,6 +1,6 @@
-#Next Door
+# Next Door
 
-##개발 인원 : 7명,  개발 기간 : 6주
+## 개발 인원 : 7명,  개발 기간 : 6주
 ***
 *OS : Window 7 Home Premium K
 *JDK : JDK1.8.0_121
